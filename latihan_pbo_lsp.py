@@ -56,3 +56,10 @@ garis()
 print(" Tipe kamar yang dipilih : ",(tipe_kamar))
 print(" Lama Menginap : ",(lama_inap)," Hari")
 print(" Total harga yang dibayar : Rp.",(total_harga))
+Home = input ('kembali kemenu utama (Y/N)?) 
+If home == ("y") 
+Garis () 
+Judul () / tampilan menu
+Codingan () semua codingan awal akhir input proses ouput
+Else : 
+Back
