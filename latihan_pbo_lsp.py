@@ -63,3 +63,12 @@ Judul () / tampilan menu
 Codingan () semua codingan awal akhir input proses ouput
 Else : 
 Back
+
+
+print("|---------------------------------------------------------------|")
+print("| Lama Menginap |   Superior    |    Deluxe     |    Premium    |")
+print("|---------------|---------------|---------------|---------------|")
+print("|  1 - 2 Hari   | 100.000/Night | 150.000/Night | 200.000/Night |")
+print("|  3 - 4 Hari   | 90.000/Night  | 135.000/Night | 180.000/Night |")
+print("|   >5 Hari     | 80.000/Night  | 120.000/Night | 160.000/Night |")
+print("|---------------|---------------|---------------|---------------|")
